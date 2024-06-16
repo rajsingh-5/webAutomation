@@ -22,11 +22,9 @@ import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-import utils.FileUtility;
 import utils.PropertyUtils;
 
 public class BaseTest {
-	public static FileUtility fLib = new FileUtility();
 	public SoftAssert softAssert = new SoftAssert();
 	public static WebDriver driver;
 	public String currentRunningMethod;
@@ -52,7 +50,7 @@ public class BaseTest {
 		currentRunningMethod = result.getMethod().getMethodName();
 		spark = new ExtentSparkReporter("./Extent Report/" + dateForReport() + "/" + className + "/"
 				+ currentRunningMethod + dateTime() + ".html");
-		spark.config().setDocumentTitle("General Store");
+		spark.config().setDocumentTitle("Web Automation");
 		spark.config().setReportName(className + " Automation Execution report");
 		report = new ExtentReports();
 		report.attachReporter(spark);
