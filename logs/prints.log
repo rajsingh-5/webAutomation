@@ -1,0 +1,29 @@
+2024-Jun-16 23:42:22.967 [main] INFO  base.BaseTest - Runnig Before Class
+2024-Jun-16 23:42:23.284 [main] INFO  base.BaseTest - starting: searchProduct
+2024-Jun-16 23:42:31.360 [main] INFO  base.BasePage - Electronics is selected
+2024-Jun-16 23:42:42.105 [main] INFO  base.BasePage - iphone 13 is verified 
+2024-Jun-16 23:42:42.620 [main] INFO  base.BasePage - iphone 13 back cover is verified 
+2024-Jun-16 23:42:43.172 [main] INFO  base.BasePage - iphone 13 cover is verified 
+2024-Jun-16 23:42:43.636 [main] INFO  base.BasePage - iphone 13 case is verified 
+2024-Jun-16 23:42:44.102 [main] INFO  base.BasePage - iphone 13 pro max cover is verified 
+2024-Jun-16 23:42:44.635 [main] INFO  base.BasePage - iphone 13 pro cover is verified 
+2024-Jun-16 23:42:45.131 [main] INFO  base.BasePage - iphone 13 pro case is verified 
+2024-Jun-16 23:42:45.598 [main] INFO  base.BasePage - iphone 13 pro is verified 
+2024-Jun-16 23:42:46.013 [main] INFO  base.BasePage - iphone 13 pro back cover is verified 
+2024-Jun-16 23:42:46.454 [main] INFO  base.BasePage - iphone 13 silicone case is verified 
+2024-Jun-16 23:42:47.315 [main] INFO  base.BasePage - text IPhone 13 128 GB is entered in text box
+2024-Jun-16 23:42:49.745 [main] INFO  base.BasePage - iPhone 13 128 GB is clicked
+2024-Jun-16 23:42:50.429 [main] INFO  base.BasePage - Apple iPhone 13 is clicked
+2024-Jun-16 23:42:57.959 [main] INFO  base.BasePage - Visit The Apple Store is clicked
+2024-Jun-16 23:42:58.375 [main] INFO  base.BasePage - Apple Watch is clicked
+2024-Jun-16 23:42:59.818 [main] INFO  base.BasePage - Apple Watch is clicked
+2024-Jun-16 23:43:05.246 [main] INFO  base.BasePage - Quick Look is in view
+2024-Jun-16 23:43:10.550 [main] INFO  base.BasePage - Apple Watch SE (2nd Gen)[GPS + Cellular 40 mm]smart watch w/Starlight Aluminium Case & Starlight Sport Band Fitness & Sleep Tracker, Crash Detection, Heart Rate Monitor, Retina Display,Water Resistant is fetched successfully.
+2024-Jun-16 23:43:10.779 [main] INFO  base.BasePage - Quick Look is displayed successfully.
+2024-Jun-16 23:43:11.008 [main] INFO  base.BasePage -  - Verify Quick Look Link  |   Actual: true and  Expected: true
+2024-Jun-16 23:43:11.681 [main] INFO  base.BasePage - Link Quick Look is clicked
+2024-Jun-16 23:43:11.769 [main] INFO  base.BasePage - Apple Watch SE (2nd Gen)[GPS + Cellular 40 mm]smart watch w/Starlight Aluminium Case & Starlight Sport Band Fitness & Sleep Tracker, Crash Detection, Heart Rate Monitor, Retina Display,Water Resistant is fetched successfully.
+2024-Jun-16 23:43:12.032 [main] INFO  base.BasePage -  - Verify Quick Look Link  |   Actual: Apple Watch SE (2nd Gen)[GPS + Cellular 40 mm]smart watch w/Starlight Aluminium Case & Starlight Sport Band Fitness & Sleep Tracker, Crash Detection, Heart Rate Monitor, Retina Display,Water Resistant and  Expected: Apple Watch SE (2nd Gen)[GPS + Cellular 40 mm]smart watch w/Starlight Aluminium Case & Starlight Sport Band Fitness & Sleep Tracker, Crash Detection, Heart Rate Monitor, Retina Display,Water Resistant
+2024-Jun-16 23:43:12.048 [main] INFO  base.BaseTest - ---------------------------Execution of the Method is Finished--------------------------------------
+ 
+

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Checking:Verify Quick Look Link]]>
+    </line>
+    <line>
+      <![CDATA[Expected: true]]>
+    </line>
+    <line>
+      <![CDATA[Actual: true]]>
+    </line>
+    <line>
+      <![CDATA[Checking:Verify Quick Look Link]]>
+    </line>
+    <line>
+      <![CDATA[Expected: Apple Watch SE (2nd Gen)[GPS + Cellular 40 mm]smart watch w/Starlight Aluminium Case & Starlight Sport Band Fitness & Sleep Tracker, Crash Detection, Heart Rate Monitor, Retina Display,Water Resistant]]>
+    </line>
+    <line>
+      <![CDATA[Actual: Apple Watch SE (2nd Gen)[GPS + Cellular 40 mm]smart watch w/Starlight Aluminium Case & Starlight Sport Band Fitness & Sleep Tracker, Crash Detection, Heart Rate Monitor, Retina Display,Water Resistant]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-06-16T23:42:22 IST" name="Default suite" finished-at="2024-06-16T23:43:13 IST" duration-ms="50921">
+    <groups>
+    </groups>
+    <test started-at="2024-06-16T23:42:22 IST" name="Default test" finished-at="2024-06-16T23:43:13 IST" duration-ms="50921">
+      <class name="webAutomation.ProductSearch">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:webAutomation.ProductSearch@2fd1433e]" started-at="2024-06-16T23:42:22 IST" name="beforeSuite" finished-at="2024-06-16T23:42:22 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="configBc(org.testng.ITestContext)[pri:0, instance:webAutomation.ProductSearch@2fd1433e]" started-at="2024-06-16T23:42:22 IST" name="configBc" finished-at="2024-06-16T23:42:22 IST" duration-ms="808" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@25a1a012]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method is-config="true" signature="configBm(org.testng.ITestResult)[pri:0, instance:webAutomation.ProductSearch@2fd1433e]" started-at="2024-06-16T23:42:22 IST" name="configBm" finished-at="2024-06-16T23:42:28 IST" duration-ms="5704" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=ProductSearch.searchProduct()[pri:0, instance:webAutomation.ProductSearch@2fd1433e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBm -->
+        <test-method signature="searchProduct()[pri:0, instance:webAutomation.ProductSearch@2fd1433e]" started-at="2024-06-16T23:42:28 IST" name="searchProduct" finished-at="2024-06-16T23:43:12 IST" duration-ms="43346" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Checking:Verify Quick Look Link]]>
+            </line>
+            <line>
+              <![CDATA[Expected: true]]>
+            </line>
+            <line>
+              <![CDATA[Actual: true]]>
+            </line>
+            <line>
+              <![CDATA[Checking:Verify Quick Look Link]]>
+            </line>
+            <line>
+              <![CDATA[Expected: Apple Watch SE (2nd Gen)[GPS + Cellular 40 mm]smart watch w/Starlight Aluminium Case & Starlight Sport Band Fitness & Sleep Tracker, Crash Detection, Heart Rate Monitor, Retina Display,Water Resistant]]>
+            </line>
+            <line>
+              <![CDATA[Actual: Apple Watch SE (2nd Gen)[GPS + Cellular 40 mm]smart watch w/Starlight Aluminium Case & Starlight Sport Band Fitness & Sleep Tracker, Crash Detection, Heart Rate Monitor, Retina Display,Water Resistant]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method is-config="true" signature="configAm(org.testng.ITestResult)[pri:0, instance:webAutomation.ProductSearch@2fd1433e]" started-at="2024-06-16T23:43:12 IST" name="configAm" finished-at="2024-06-16T23:43:13 IST" duration-ms="1018" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchProduct status=SUCCESS method=ProductSearch.searchProduct()[pri:0, instance:webAutomation.ProductSearch@2fd1433e] output=Checking:Verify Quick Look Link]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAm -->
+      </class> <!-- webAutomation.ProductSearch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
